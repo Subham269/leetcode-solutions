@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Subham269/leetcode-solutions/tree/master/0027-remove-element) |
 | [0283-move-zeroes](https://github.com/Subham269/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/Subham269/leetcode-solutions/tree/master/0392-is-subsequence) |
+| [0844-backspace-string-compare](https://github.com/Subham269/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [0977-squares-of-a-sorted-array](https://github.com/Subham269/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
 |  |
@@ -22,8 +23,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/Subham269/leetcode-solutions/tree/master/0392-is-subsequence) |
+| [0844-backspace-string-compare](https://github.com/Subham269/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/Subham269/leetcode-solutions/tree/master/0392-is-subsequence) |
+## Stack
+|  |
+| ------- |
+| [0844-backspace-string-compare](https://github.com/Subham269/leetcode-solutions/tree/master/0844-backspace-string-compare) |
+## Simulation
+|  |
+| ------- |
+| [0844-backspace-string-compare](https://github.com/Subham269/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 <!---LeetCode Topics End-->
