@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Subham269/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/Subham269/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0977-squares-of-a-sorted-array](https://github.com/Subham269/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Subham269/leetcode-solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Two Pointers
 |  |
 | ------- |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Subham269/leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0844-backspace-string-compare](https://github.com/Subham269/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [0977-squares-of-a-sorted-array](https://github.com/Subham269/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Subham269/leetcode-solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Sorting
 |  |
 | ------- |
@@ -39,4 +41,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0844-backspace-string-compare](https://github.com/Subham269/leetcode-solutions/tree/master/0844-backspace-string-compare) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Subham269/leetcode-solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 <!---LeetCode Topics End-->
