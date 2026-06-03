@@ -1,7 +1,7 @@
 class Solution {
     public void sortColors(int[] nums) 
     {
-        int right=nums.length-1,left=0,t,i=0;
+        int left=0,right=nums.length-1,t,i=0;
         while(i<=right)
         {
             if(nums[i]==0)
@@ -20,7 +20,10 @@ class Solution {
                 right--;
             }
             else
-            i++;
+            {
+                i++;
+            }
+
         }
     }
 }
