@@ -6,9 +6,6 @@ class Solution {
         while(right<fruits.length)
         {
                 freq.put(fruits[right],freq.getOrDefault(fruits[right],0)+1);
-                    if(freq.size()<=2)
-                    max=Math.max(max,right-left+1);
-                    right++;
                 while(freq.size()>2)
                 {
                     if(freq.get(fruits[left])==1)
@@ -17,6 +14,8 @@ class Solution {
                     freq.put(fruits[left],freq.get(fruits[left])-1);
                     left++;
                 }
+                max=Math.max(max,right-left+1);
+                right++;
         }
         return max;    }
 }
