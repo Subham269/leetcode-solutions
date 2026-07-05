@@ -11,7 +11,7 @@ class Solution {
                     if(arr[i]>max)
                     max=arr[i];
                 }
-            while((s.substring(left,right+1).length()-max)>k)
+            while(((right-left+1)-max)>k)
             {
                 arr[s.charAt(left)-65]--;
                 left++;
