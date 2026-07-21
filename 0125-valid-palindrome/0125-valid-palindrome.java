@@ -1,22 +1,18 @@
 class Solution {
     public boolean isPalindrome(String s) 
     {
-        String nw="",wen="";
-        for(int i=0;i<s.length();i++)
+        int left=0,right=s.length()-1;
+        while(left<=right)
         {
-            if(Character.isLetterOrDigit(s.charAt(i)))
-            {
-                nw+=s.charAt(i);
-                wen=s.charAt(i)+wen;
-            }
-                    
+            while(left<s.length()&&!Character.isLetterOrDigit(s.charAt(left)))
+            left++;
+            while(right>-1&&!Character.isLetterOrDigit(s.charAt(right)))
+            right--;
+            if(left<s.length() && right>-1&& Character.toLowerCase(s.charAt(left))!=Character.toLowerCase(s.charAt(right)))
+            return false;
+            left++;
+            right--;
         }
-        System.out.println(nw);
-        System.out.println(wen);
-
-        if(nw.equalsIgnoreCase(wen))
-        return true;
-        else
-        return false;
-}
+        return true;   
+    }
 }
