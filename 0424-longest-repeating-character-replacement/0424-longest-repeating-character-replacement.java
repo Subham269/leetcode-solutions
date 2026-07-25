@@ -9,8 +9,7 @@ class Solution {
             right++;
             for(i=0;i<26;i++)
             {
-                if(freq[i]>max)
-                max=freq[i];
+                max=Math.max(max,freq[i]);
             }
             while((right-left)-max>k)
             {
@@ -18,8 +17,8 @@ class Solution {
                 left++;
                 for(i=0;i<26;i++)
                 {
-                    if(freq[i]>max)
-                    max=freq[i];
+                    max=Math.max(max,freq[i]);
+
                 }
             }
             maxLen=Math.max(maxLen,right-left);
