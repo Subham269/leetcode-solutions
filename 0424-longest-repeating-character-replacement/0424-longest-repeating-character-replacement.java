@@ -1,29 +1,29 @@
 class Solution {
     public int characterReplacement(String s, int k) 
     {
-        int left=0,right=0,maxo=0,i,max=0;
-        int arr[]=new int[26];
-        while(right<s.length())
+        int left=0,right=0,max=0,maxLen=0,i;
+        int freq[]=new int[26];
+        while(right<=s.length()-1)
         {
-            arr[s.charAt(right)-65]++;
-            for(i=0;i<arr.length;i++)
-                {
-                    if(arr[i]>max)
-                    max=arr[i];
-                }
-            while(((right-left+1)-max)>k)
+            freq[s.charAt(right)-65]++;
+            right++;
+            for(i=0;i<26;i++)
             {
-                arr[s.charAt(left)-65]--;
+                if(freq[i]>max)
+                max=freq[i];
+            }
+            while((right-left)-max>k)
+            {
+                freq[s.charAt(left)-65]--;
                 left++;
-                for(i=0;i<arr.length;i++)
+                for(i=0;i<26;i++)
                 {
-                    if(arr[i]>max)
-                    max=arr[i];
+                    if(freq[i]>max)
+                    max=freq[i];
                 }
             }
-            maxo=Math.max(maxo,right-left+1);
-            right++;
+            maxLen=Math.max(maxLen,right-left);
         }
-        return maxo;
+        return maxLen;
     }
 }
