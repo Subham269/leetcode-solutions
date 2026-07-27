@@ -1,52 +1,42 @@
 class Solution {
-    public String minWindow(String s, String t) 
-    {
+    public String minWindow(String s, String t) {
         if(t.length()>s.length())
         return "";
-        int left=0,right=t.length(),i,min=Integer.MAX_VALUE,flag=0;
-        int freq1[]=new int[256];
-        int freq2[]=new int[256];
+        int left=0,right=0,min=Integer.MAX_VALUE;
         String mins="";
-        for(i=0;i<t.length();i++)
+        int freq1[]=new int[128];
+        int freq2[]=new int[128];
+        for(int i=0;i<t.length();i++)
         {
             freq1[t.charAt(i)]++;
         }
-        for(i=0;i<t.length();i++)
+        while(right<s.length())
         {
-            freq2[s.charAt(i)]++;
-        }
-        while(right<=s.length())
-        {
-            flag=0;
-            for(i=0;i<256;i++)
+            freq2[s.charAt(right)]++;
+            while(works(freq1,freq2))
             {
-                if(freq2[i]<freq1[i])
+                if(min>right-left)
                 {
-                    flag=1;
-                    break;
-                }
-            }
-            if(flag==1)
-            {
-                if(right<s.length())
-                freq2[s.charAt(right)]++;
-                right++;
-            }
-            else
-            {
-                if(right-left<min)
-                {
-                    min=right-left;
-                    mins=s.substring(left,right);
+                    min=right-left+1;
+                    mins=s.substring(left,right+1);
                 }
                 freq2[s.charAt(left)]--;
                 left++;
-
             }
+            right++;
         }
         if(min==Integer.MAX_VALUE)
         return "";
-        else
         return mins;
+
+    }
+    public boolean works(int arr1[],int arr2[])
+    {
+        for(int i=0;i<128;i++)
+        {
+            if(arr2[i]<arr1[i])
+            return false;
+        }
+        return true;
     }
 }
