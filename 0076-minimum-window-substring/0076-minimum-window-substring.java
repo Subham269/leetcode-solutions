@@ -3,23 +3,24 @@ class Solution {
     {
         if(t.length()>s.length())
         return "";
-        int left=0,right=t.length()-1,i,min=Integer.MAX_VALUE,flag=0;
+        int left=0,right=t.length(),i,min=Integer.MAX_VALUE,flag=0;
+        int freq1[]=new int[256];
+        int freq2[]=new int[256];
         String mins="";
-        int arr1[]=new int[256];
-        int arr2[]=new int[256];
         for(i=0;i<t.length();i++)
         {
-            arr1[t.charAt(i)]++;
+            freq1[t.charAt(i)]++;
         }
-        for(i=left;i<=right;i++)
+        for(i=0;i<t.length();i++)
         {
-            arr2[s.charAt(i)]++;
+            freq2[s.charAt(i)]++;
         }
-        while(right<s.length())
+        while(right<=s.length())
         {
+            flag=0;
             for(i=0;i<256;i++)
             {
-                if(arr2[i]<arr1[i])
+                if(freq2[i]<freq1[i])
                 {
                     flag=1;
                     break;
@@ -27,23 +28,25 @@ class Solution {
             }
             if(flag==1)
             {
+                if(right<s.length())
+                freq2[s.charAt(right)]++;
                 right++;
-                if(right<=s.length()-1)
-                arr2[s.charAt(right)]++;
             }
             else
             {
-                if(right-left+1<min)
+                if(right-left<min)
                 {
-                    min=right-left+1;
-                    mins=s.substring(left,right+1);
+                    min=right-left;
+                    mins=s.substring(left,right);
                 }
-                arr2[s.charAt(left)]--;
+                freq2[s.charAt(left)]--;
                 left++;
+
             }
-            flag=0;
         }
+        if(min==Integer.MAX_VALUE)
+        return "";
+        else
         return mins;
-        
     }
 }
