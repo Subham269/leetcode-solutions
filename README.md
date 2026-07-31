@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Subham269/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Subham269/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Subham269/leetcode-solutions/tree/master/0075-sort-colors) |
+| [0128-longest-consecutive-sequence](https://github.com/Subham269/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/Subham269/leetcode-solutions/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Subham269/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Subham269/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Subham269/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/Subham269/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Subham269/leetcode-solutions/tree/master/0076-minimum-window-substring) |
+| [0128-longest-consecutive-sequence](https://github.com/Subham269/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/Subham269/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Subham269/leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0525-contiguous-array](https://github.com/Subham269/leetcode-solutions/tree/master/0525-contiguous-array) |
@@ -167,4 +169,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Subham269/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Subham269/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
