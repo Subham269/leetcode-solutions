@@ -6,26 +6,20 @@ class Solution {
         return false;
         HashMap<Character,String> map1= new HashMap<>();
         HashMap<String,Character> map2=new HashMap<>();
-        s+=" ";
         int i=0;
-        for(String word: s.split(" "))
+        for(String word: nw)
         {
             if(map1.containsKey(pattern.charAt(i)))
             {
                 if(!map1.get(pattern.charAt(i)).equals(word))
                 return false;
             }
-            map1.put(pattern.charAt(i),word);
-            i++;
-        }
-        i=0;
-        for(String word: s.split(" "))
-        {
             if(map2.containsKey(word))
             {
                 if(map2.get(word)!=pattern.charAt(i))
                 return false;
             }
+            map1.put(pattern.charAt(i),word);
             map2.put(word,pattern.charAt(i));
             i++;
         }
