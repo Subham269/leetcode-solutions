@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Subham269/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/Subham269/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/Subham269/leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Subham269/leetcode-solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0525-contiguous-array](https://github.com/Subham269/leetcode-solutions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Subham269/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/Subham269/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Subham269/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0205-isomorphic-strings](https://github.com/Subham269/leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/Subham269/leetcode-solutions/tree/master/0290-word-pattern) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Subham269/leetcode-solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0424-longest-repeating-character-replacement](https://github.com/Subham269/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Subham269/leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0525-contiguous-array](https://github.com/Subham269/leetcode-solutions/tree/master/0525-contiguous-array) |
@@ -148,10 +150,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0069-sqrtx](https://github.com/Subham269/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0367-valid-perfect-square](https://github.com/Subham269/leetcode-solutions/tree/master/0367-valid-perfect-square) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Subham269/leetcode-solutions/tree/master/0380-insert-delete-getrandom-o1) |
 ## Design
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Subham269/leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Subham269/leetcode-solutions/tree/master/0380-insert-delete-getrandom-o1) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -177,4 +181,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Subham269/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/Subham269/leetcode-solutions/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
