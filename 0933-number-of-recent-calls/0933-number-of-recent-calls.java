@@ -1,18 +1,14 @@
 class RecentCounter {
-    List<Integer> list=new ArrayList<>();
+    Queue<Integer> queue=new ArrayDeque<>();
     public RecentCounter() {
         
     }
     
     public int ping(int t) {
-        int count=0;
-        list.add(t);
-        for(int i=0;i<list.size();i++)
-        {
-            if(list.get(i)>=(t-3000)&&list.get(i)<=t)
-            count++;
-        }
-        return count;
+        queue.offer(t);
+        while(queue.peek()<(t-3000))
+        queue.poll();
+        return queue.size();
     }
 }
 
