@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/Subham269/leetcode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/Subham269/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [0978-longest-turbulent-subarray](https://github.com/Subham269/leetcode-solutions/tree/master/0978-longest-turbulent-subarray) |
+| [0994-rotting-oranges](https://github.com/Subham269/leetcode-solutions/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/Subham269/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Subham269/leetcode-solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1480-running-sum-of-1d-array](https://github.com/Subham269/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/Subham269/leetcode-solutions/tree/master/0085-maximal-rectangle) |
+| [0994-rotting-oranges](https://github.com/Subham269/leetcode-solutions/tree/master/0994-rotting-oranges) |
 ## Ordered Set
 |  |
 | ------- |
@@ -297,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Subham269/leetcode-solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Subham269/leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0994-rotting-oranges](https://github.com/Subham269/leetcode-solutions/tree/master/0994-rotting-oranges) |
 ## Binary Tree
 |  |
 | ------- |
