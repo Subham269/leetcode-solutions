@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/Subham269/leetcode-solutions/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Subham269/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Subham269/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0239-sliding-window-maximum](https://github.com/Subham269/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/Subham269/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/Subham269/leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/Subham269/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Subham269/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/Subham269/leetcode-solutions/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/Subham269/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0239-sliding-window-maximum](https://github.com/Subham269/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/Subham269/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Subham269/leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Subham269/leetcode-solutions/tree/master/0567-permutation-in-string) |
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/Subham269/leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
+| [0239-sliding-window-maximum](https://github.com/Subham269/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
 | [0622-design-circular-queue](https://github.com/Subham269/leetcode-solutions/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/Subham269/leetcode-solutions/tree/master/0641-design-circular-deque) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Subham269/leetcode-solutions/tree/master/0918-maximum-sum-circular-subarray) |
@@ -227,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/Subham269/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Subham269/leetcode-solutions/tree/master/0918-maximum-sum-circular-subarray) |
 ## Greedy
 |  |
@@ -270,9 +274,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Subham269/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0239-sliding-window-maximum](https://github.com/Subham269/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/Subham269/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/Subham269/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 ## Bucket Sort
 |  |
