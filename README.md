@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Subham269/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/Subham269/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0143-reorder-list](https://github.com/Subham269/leetcode-solutions/tree/master/0143-reorder-list) |
+| [0148-sort-list](https://github.com/Subham269/leetcode-solutions/tree/master/0148-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/Subham269/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Subham269/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Subham269/leetcode-solutions/tree/master/0344-reverse-string) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Subham269/leetcode-solutions/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/Subham269/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Subham269/leetcode-solutions/tree/master/0075-sort-colors) |
+| [0148-sort-list](https://github.com/Subham269/leetcode-solutions/tree/master/0148-sort-list) |
 | [0347-top-k-frequent-elements](https://github.com/Subham269/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0977-squares-of-a-sorted-array](https://github.com/Subham269/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## String
@@ -225,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Subham269/leetcode-solutions/tree/master/0053-maximum-subarray) |
+| [0148-sort-list](https://github.com/Subham269/leetcode-solutions/tree/master/0148-sort-list) |
 | [0347-top-k-frequent-elements](https://github.com/Subham269/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Subham269/leetcode-solutions/tree/master/0918-maximum-sum-circular-subarray) |
 ## Queue
@@ -339,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/Subham269/leetcode-solutions/tree/master/0143-reorder-list) |
+| [0148-sort-list](https://github.com/Subham269/leetcode-solutions/tree/master/0148-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/Subham269/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0622-design-circular-queue](https://github.com/Subham269/leetcode-solutions/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/Subham269/leetcode-solutions/tree/master/0641-design-circular-deque) |
@@ -349,4 +353,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0143-reorder-list](https://github.com/Subham269/leetcode-solutions/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/Subham269/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/Subham269/leetcode-solutions/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
