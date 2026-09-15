@@ -352,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Subham269/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/Subham269/leetcode-solutions/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/Subham269/leetcode-solutions/tree/master/0148-sort-list) |
+| [0206-reverse-linked-list](https://github.com/Subham269/leetcode-solutions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Subham269/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0622-design-circular-queue](https://github.com/Subham269/leetcode-solutions/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/Subham269/leetcode-solutions/tree/master/0641-design-circular-deque) |
@@ -361,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/Subham269/leetcode-solutions/tree/master/0143-reorder-list) |
+| [0206-reverse-linked-list](https://github.com/Subham269/leetcode-solutions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Subham269/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 ## Merge Sort
 |  |
