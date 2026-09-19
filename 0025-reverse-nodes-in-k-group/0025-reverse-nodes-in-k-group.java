@@ -58,11 +58,6 @@ class Solution {
         {
             dummy1.next=start;
         }
-        if(dummy.next!=null&&dummy.next.next!=null)
-        {
-            System.out.println(dummy.next.val);
-            System.out.println(dummy.next.next.val);
-        }
         
        return dummy.next;
         
