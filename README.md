@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2364-count-number-of-bad-pairs](https://github.com/Subham269/leetcode-solutions/tree/master/2364-count-number-of-bad-pairs) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Subham269/leetcode-solutions/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Subham269/leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/Subham269/leetcode-solutions/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 | [3903-smallest-stable-index-i](https://github.com/Subham269/leetcode-solutions/tree/master/3903-smallest-stable-index-i) |
 ## Two Pointers
 |  |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/Subham269/leetcode-solutions/tree/master/0148-sort-list) |
 | [0347-top-k-frequent-elements](https://github.com/Subham269/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0977-squares-of-a-sorted-array](https://github.com/Subham269/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/Subham269/leetcode-solutions/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 ## String
 |  |
 | ------- |
