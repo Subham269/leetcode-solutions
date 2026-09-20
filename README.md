@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/Subham269/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Subham269/leetcode-solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Subham269/leetcode-solutions/tree/master/2161-partition-array-according-to-given-pivot) |
+| [3722-lexicographically-smallest-string-after-reverse](https://github.com/Subham269/leetcode-solutions/tree/master/3722-lexicographically-smallest-string-after-reverse) |
 ## Sorting
 |  |
 | ------- |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0456-132-pattern](https://github.com/Subham269/leetcode-solutions/tree/master/0456-132-pattern) |
 | [0704-binary-search](https://github.com/Subham269/leetcode-solutions/tree/master/0704-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/Subham269/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
+| [3722-lexicographically-smallest-string-after-reverse](https://github.com/Subham269/leetcode-solutions/tree/master/3722-lexicographically-smallest-string-after-reverse) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -384,4 +386,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Subham269/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Subham269/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
+## Enumeration
+|  |
+| ------- |
+| [3722-lexicographically-smallest-string-after-reverse](https://github.com/Subham269/leetcode-solutions/tree/master/3722-lexicographically-smallest-string-after-reverse) |
 <!---LeetCode Topics End-->
