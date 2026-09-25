@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/Subham269/leetcode-solutions/tree/master/0148-sort-list) |
 | [0347-top-k-frequent-elements](https://github.com/Subham269/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0977-squares-of-a-sorted-array](https://github.com/Subham269/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [1657-determine-if-two-strings-are-close](https://github.com/Subham269/leetcode-solutions/tree/master/1657-determine-if-two-strings-are-close) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/Subham269/leetcode-solutions/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 ## String
 |  |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Subham269/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0844-backspace-string-compare](https://github.com/Subham269/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Subham269/leetcode-solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1657-determine-if-two-strings-are-close](https://github.com/Subham269/leetcode-solutions/tree/master/1657-determine-if-two-strings-are-close) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Subham269/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/Subham269/leetcode-solutions/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Subham269/leetcode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1657-determine-if-two-strings-are-close](https://github.com/Subham269/leetcode-solutions/tree/master/1657-determine-if-two-strings-are-close) |
 | [2364-count-number-of-bad-pairs](https://github.com/Subham269/leetcode-solutions/tree/master/2364-count-number-of-bad-pairs) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Subham269/leetcode-solutions/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Binary Search
@@ -318,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Subham269/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+| [1657-determine-if-two-strings-are-close](https://github.com/Subham269/leetcode-solutions/tree/master/1657-determine-if-two-strings-are-close) |
 | [2364-count-number-of-bad-pairs](https://github.com/Subham269/leetcode-solutions/tree/master/2364-count-number-of-bad-pairs) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Subham269/leetcode-solutions/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Quickselect
