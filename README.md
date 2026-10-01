@@ -375,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0622-design-circular-queue](https://github.com/Subham269/leetcode-solutions/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/Subham269/leetcode-solutions/tree/master/0641-design-circular-deque) |
 | [0876-middle-of-the-linked-list](https://github.com/Subham269/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
+| [1669-merge-in-between-linked-lists](https://github.com/Subham269/leetcode-solutions/tree/master/1669-merge-in-between-linked-lists) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Subham269/leetcode-solutions/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2074-reverse-nodes-in-even-length-groups](https://github.com/Subham269/leetcode-solutions/tree/master/2074-reverse-nodes-in-even-length-groups) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Subham269/leetcode-solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
