@@ -246,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Subham269/leetcode-solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/Subham269/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/Subham269/leetcode-solutions/tree/master/0148-sort-list) |
 | [0347-top-k-frequent-elements](https://github.com/Subham269/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
@@ -313,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Subham269/leetcode-solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0239-sliding-window-maximum](https://github.com/Subham269/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/Subham269/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Subham269/leetcode-solutions/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
@@ -365,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Subham269/leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/Subham269/leetcode-solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/Subham269/leetcode-solutions/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Subham269/leetcode-solutions/tree/master/0025-reverse-nodes-in-k-group) |
 | [0092-reverse-linked-list-ii](https://github.com/Subham269/leetcode-solutions/tree/master/0092-reverse-linked-list-ii) |
@@ -394,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Merge Sort
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Subham269/leetcode-solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/Subham269/leetcode-solutions/tree/master/0148-sort-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -404,4 +408,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3722-lexicographically-smallest-string-after-reverse](https://github.com/Subham269/leetcode-solutions/tree/master/3722-lexicographically-smallest-string-after-reverse) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Subham269/leetcode-solutions/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
