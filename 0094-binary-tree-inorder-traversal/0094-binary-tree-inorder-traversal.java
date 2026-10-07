@@ -14,22 +14,22 @@
  * }
  */
 class Solution {
-    List<Integer> list = new ArrayList<>();
+    Deque<TreeNode> stack = new ArrayDeque<>();
     public List<Integer> inorderTraversal(TreeNode root) {
-        if(root==null)
-        return new ArrayList<>();
-        inorder(root);
-        return list;
-        
-    }
-    public void inorder(TreeNode head)
-    {
-            if(head==null)
+        TreeNode head = root;
+        List<Integer> list = new ArrayList<>();
+        while(head!=null || !stack.isEmpty())
+        {
+            while(head!=null)
             {
-                return ;
+                stack.push(head);
+                head=head.left;
             }
-            inorder(head.left);
+            head = stack.pop();
             list.add(head.val);
-            inorder(head.right);
+            head = head.right;
+        }
+        return list;
+
     }
 }
