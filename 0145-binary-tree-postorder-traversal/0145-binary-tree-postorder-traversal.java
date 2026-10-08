@@ -14,17 +14,25 @@
  * }
  */
 class Solution {
+    Deque<TreeNode> stack = new ArrayDeque<>();
     List<Integer> list = new ArrayList<>();
     public List<Integer> postorderTraversal(TreeNode root) {
-        postorder(root);
+        while(root!=null||!stack.isEmpty())
+        {
+            if(root!=null)
+            {
+                list.add(root.val);
+                stack.push(root);
+                root=root.right;
+            }
+            else
+            {
+                root=stack.pop();
+                root=root.left;
+            }
+        }
+        Collections.reverse(list);
         return list;
-    }
-    public void postorder(TreeNode head)
-    {
-        if(head==null)
-        return ;
-        postorder(head.left);
-        postorder(head.right);
-        list.add(head.val);
+
     }
 }
