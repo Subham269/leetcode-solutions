@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/Subham269/leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/Subham269/leetcode-solutions/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/Subham269/leetcode-solutions/tree/master/0567-permutation-in-string) |
+| [0784-letter-case-permutation](https://github.com/Subham269/leetcode-solutions/tree/master/0784-letter-case-permutation) |
 | [0844-backspace-string-compare](https://github.com/Subham269/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Subham269/leetcode-solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Subham269/leetcode-solutions/tree/master/1657-determine-if-two-strings-are-close) |
@@ -493,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/Subham269/leetcode-solutions/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Subham269/leetcode-solutions/tree/master/0136-single-number) |
+| [0784-letter-case-permutation](https://github.com/Subham269/leetcode-solutions/tree/master/0784-letter-case-permutation) |
 ## Memoization
 |  |
 | ------- |
@@ -508,6 +510,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0077-combinations](https://github.com/Subham269/leetcode-solutions/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/Subham269/leetcode-solutions/tree/master/0078-subsets) |
 | [0216-combination-sum-iii](https://github.com/Subham269/leetcode-solutions/tree/master/0216-combination-sum-iii) |
+| [0784-letter-case-permutation](https://github.com/Subham269/leetcode-solutions/tree/master/0784-letter-case-permutation) |
 ## Bracket Sequences
 |  |
 | ------- |
