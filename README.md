@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Subham269/leetcode-solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1480-running-sum-of-1d-array](https://github.com/Subham269/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1567-maximum-length-of-subarray-with-positive-product](https://github.com/Subham269/leetcode-solutions/tree/master/1567-maximum-length-of-subarray-with-positive-product) |
+| [1980-find-unique-binary-string](https://github.com/Subham269/leetcode-solutions/tree/master/1980-find-unique-binary-string) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Subham269/leetcode-solutions/tree/master/2073-time-needed-to-buy-tickets) |
 | [2104-sum-of-subarray-ranges](https://github.com/Subham269/leetcode-solutions/tree/master/2104-sum-of-subarray-ranges) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Subham269/leetcode-solutions/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/Subham269/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Subham269/leetcode-solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Subham269/leetcode-solutions/tree/master/1657-determine-if-two-strings-are-close) |
+| [1980-find-unique-binary-string](https://github.com/Subham269/leetcode-solutions/tree/master/1980-find-unique-binary-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/Subham269/leetcode-solutions/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Subham269/leetcode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Subham269/leetcode-solutions/tree/master/1657-determine-if-two-strings-are-close) |
+| [1980-find-unique-binary-string](https://github.com/Subham269/leetcode-solutions/tree/master/1980-find-unique-binary-string) |
 | [2364-count-number-of-bad-pairs](https://github.com/Subham269/leetcode-solutions/tree/master/2364-count-number-of-bad-pairs) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Subham269/leetcode-solutions/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Binary Search
@@ -511,6 +514,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Subham269/leetcode-solutions/tree/master/0078-subsets) |
 | [0216-combination-sum-iii](https://github.com/Subham269/leetcode-solutions/tree/master/0216-combination-sum-iii) |
 | [0784-letter-case-permutation](https://github.com/Subham269/leetcode-solutions/tree/master/0784-letter-case-permutation) |
+| [1980-find-unique-binary-string](https://github.com/Subham269/leetcode-solutions/tree/master/1980-find-unique-binary-string) |
 ## Bracket Sequences
 |  |
 | ------- |
